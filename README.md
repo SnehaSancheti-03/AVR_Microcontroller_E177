@@ -160,7 +160,7 @@ The PCB layout is compact, functional, and suitable for embedded system prototyp
 ---
 
 ## 📚 Reference
-ATmega AVR architecture and interfacing concepts as illustrated in the assignment design sheet. :contentReference[oaicite:0]{index=0}  
+ATmega AVR architecture and interfacing concepts as illustrated in the assignment design sheet.   
 
 ---
 
